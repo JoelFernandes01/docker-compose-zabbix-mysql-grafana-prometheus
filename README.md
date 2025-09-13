@@ -10,7 +10,7 @@ docker-compose.yml         - Docker Compose a escolher para deploy via Pipeline 
 - **Password:** `zabbix`
 
 ### Zabbix Web Interface Apache
-**URL:** [localhost/zabbix](http://localhost/zabbix)
+**URL:** [localhost/zabbix](http://localhost)
 **Usuário:**
 - **Username:** `Admin`
 - **Password:** `zabbix`
