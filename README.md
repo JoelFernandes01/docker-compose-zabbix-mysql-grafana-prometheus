@@ -3,9 +3,18 @@ docker-compose-nginx.yml   - Docker Compose com o NGINX,
 docker-compose-apache.yml  - Docker Compose com o Apache,
 docker-compose.yml         - Docker Compose a escolher para deploy via Pipeline ( no momemto com o NGINX ).
 
-### Zabbix Web Interface
+### Zabbix Web Interface NGINX
 
-**URL:** [localhost:8080](http://localhost:8080)
+**URL:** [localhost](http://localhost)
+
+**Usuário:**
+
+- **Username:** `Admin`
+- **Password:** `zabbix`
+
+### Zabbix Web Interface Apache
+
+**URL:** [localhost/zabbix](http://localhost/zabbix)
 
 **Usuário:**
 
