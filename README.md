@@ -13,7 +13,7 @@ docker-compose.yml         - Docker Compose a escolher para deploy via Pipeline 
 **URL:** [localhost/zabbix](http://localhost/zabbix)
 **Usuário:**
 - **Username:** `Admin`
-- **Password:** `zabbix
+- **Password:** `zabbix`
 
 ### Grafana Dashboard
 **URL:** [localhost:3000](http://localhost:3000)
