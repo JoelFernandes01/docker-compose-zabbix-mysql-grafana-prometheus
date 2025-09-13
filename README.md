@@ -14,3 +14,9 @@ docker-compose.yml         - Docker Compose a escolher para deploy via Pipeline 
 **Usuário:**
 - **Username:** `admin`  
 - **Password:** ``
+
+### Grafana Prometheus
+**URL:** [localhost:3000](http://localhost:3000)
+**Usuário:**
+- **Username:** `admin`  
+- **Password:** ``
