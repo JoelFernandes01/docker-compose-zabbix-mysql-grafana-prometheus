@@ -1,7 +1,7 @@
 # Docker Compose do Zabbix 7.0 - Alpine.
-<br>docker-compose-nginx.yml   - Docker Compose com o NGINX,</br>
-docker-compose-apache.yml  - Docker Compose com o Apache,
-docker-compose.yml         - Docker Compose a escolher para deploy via Pipeline ( no momemto com o NGINX ).
+docker-compose-nginx.yml   - Docker Compose com o NGINX,
+<br>docker-compose-apache.yml  - Docker Compose com o Apache,</br>
+<br>docker-compose.yml         - Docker Compose a escolher para deploy via Pipeline ( no momemto com o NGINX ).</br>
 
 ### Zabbix Web Interface NGINX
 **URL:** [localhost](http://localhost)
